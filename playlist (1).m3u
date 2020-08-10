@@ -1,3 +1,21 @@
-#EXTM3U
-#EXTINF: 0,Очень много запросов
-http://langamepp.com/mnogo1.mp4
+#EXTGRP:unsorted
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+
+#EXTINF:0,ИНТЕР
+#EXTGRP:unsorted
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:0,K1
+#EXTGRP:unsorted
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:0,НТН
+#EXTGRP:unsorted
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:0,К1
+#EXTGRP:unsorted
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:0,Iнтер
+#EXTGRP:unsorted
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:0,A2
+#EXTGRP:Кино
+https://sc.id-tv.kz/A2_38_39.m3u8
